@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Трихлеб](https://up.htmlacademy.ru/javascript/20/user/1330525).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Камнев](https://htmlacademy.ru/profile/id1339153).
 
 ---
 
